@@ -1,0 +1,68 @@
+{
+  "cars": [
+    {
+      "model": "BMW",
+      "price": 120,
+      "colour": "A1",
+      "mileage": 1500,
+      "components": [
+        "ABS",
+        "ALLOY WHEELS"
+      ]
+    },
+    {
+      "model": "MAZDA",
+      "price": 170,
+      "colour": "B2",
+      "mileage": 2500,
+      "components": [
+        "BLUETOOTH",
+        "AIR CONDITIONING",
+        "ALLOY WHEELS"
+      ]
+    },
+    {
+      "model": "TOYOTA",
+      "price": 985,
+      "colour": "B5",
+      "mileage": 15500,
+      "components": [
+        "BLUETOOTH",
+        "AIR CONDITIONING"
+      ]
+    },
+    {
+      "model": "CITROEN",
+      "price": 1000,
+      "colour": "A1",
+      "mileage": 100,
+      "components": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "model": "BMW",
+      "price": 1000,
+      "colour": "A1",
+      "mileage": 100,
+      "components": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "model": "ABC",
+      "price": 1000,
+      "colour": "A1",
+      "mileage": 100,
+      "components": [
+        "A",
+        "B",
+        "C"
+      ]
+    }
+  ]
+}

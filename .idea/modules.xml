@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cars-app/cars-app.iml" filepath="$PROJECT_DIR$/cars-app/cars-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cars-exceptions-module/cars-exceptions-module.iml" filepath="$PROJECT_DIR$/cars-exceptions-module/cars-exceptions-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cars-models-module/cars-models-module.iml" filepath="$PROJECT_DIR$/cars-models-module/cars-models-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cars-services-module/cars-services-module.iml" filepath="$PROJECT_DIR$/cars-services-module/cars-services-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gson-module/gson-module.iml" filepath="$PROJECT_DIR$/gson-module/gson-module.iml" />
+    </modules>
+  </component>
+</project>

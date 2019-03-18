@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cars-app" />
+        <module name="cars-exceptions-module" />
+        <module name="cars-models-module" />
+        <module name="cars-services-module" />
+        <module name="gson-module" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cars-app" target="11" />
+      <module name="cars-exceptions-module" target="11" />
+      <module name="cars-models-module" target="11" />
+      <module name="cars-services-module" target="11" />
+      <module name="gson-module" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
